@@ -1,0 +1,4 @@
+com\kpraghav\mongodb\kubetest\repository\TutorialRepository.class
+com\kpraghav\mongodb\kubetest\SpringBootDataMongodbApplication.class
+com\kpraghav\mongodb\kubetest\model\Tutorial.class
+com\kpraghav\mongodb\kubetest\controller\TutorialController.class
